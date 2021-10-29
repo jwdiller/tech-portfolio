@@ -16,3 +16,7 @@ Scrolling Text Maker
 
 Resume Maker
 ![Contains 3 seperate CSS Themes](./assets/resumePretty.png)
+
+Event Organizer (CSC 151 Project)
+![TRAPS Main Menu](./assets/traps01.png)
+![TRAPS Ticket Selling Screen](./assets/traps02.png)
