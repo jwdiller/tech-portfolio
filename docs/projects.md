@@ -19,4 +19,5 @@ Resume Maker
 
 Event Organizer (CSC 151 Project)
 ![TRAPS Main Menu](./assets/traps01.png)
+
 ![TRAPS Ticket Selling Screen](./assets/traps02.png)
