@@ -11,4 +11,8 @@ a screenshot or GIF to show it.
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![Add alternate text for image](./assets/rosemary.png)
+Scrolling Text Maker
+![Just like in the movies!](./assets/swSCROLL.jpg)
+
+Resume Maker
+![Contains 3 seperate CSS Themes](./assests/resumePretty.png)
