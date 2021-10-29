@@ -15,4 +15,4 @@ Scrolling Text Maker
 ![Just like in the movies!](./assets/swSCROLL.jpg)
 
 Resume Maker
-![Contains 3 seperate CSS Themes](./assests/resumePretty.png)
+![Contains 3 seperate CSS Themes](./assets/resumePretty.png)
